@@ -1,0 +1,21 @@
+# ninja log v6
+2	49	7690570116741937	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	e3ba366efdef4a99
+3893	3937	7690570155622531	C:/Users/icaro/OneDrive/Área de Trabalho/Projeto - Pokemon/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	12dced02b3cb2516
+2	49	7690570116741937	C:/Users/icaro/OneDrive/Área de Trabalho/Projeto - Pokemon/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	e3ba366efdef4a99
+3937	3982	7690570156058259	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	1cf02b9130a5e96f
+50	3893	7690570155176761	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	dde69582ee18c25f
+50	3893	7690570155176761	C:/Users/icaro/OneDrive/Área de Trabalho/Projeto - Pokemon/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	dde69582ee18c25f
+3893	3937	7690570155622531	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	12dced02b3cb2516
+3937	3982	7690570156058259	C:/Users/icaro/OneDrive/Área de Trabalho/Projeto - Pokemon/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	1cf02b9130a5e96f
+3982	4025	7690570156502275	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	47bc877d720541e2
+3982	4025	7690570156502275	C:/Users/icaro/OneDrive/Área de Trabalho/Projeto - Pokemon/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	47bc877d720541e2
+4025	4069	7690570156940273	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	1ef8d178d148e271
+4025	4069	7690570156940273	C:/Users/icaro/OneDrive/Área de Trabalho/Projeto - Pokemon/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	1ef8d178d148e271
+4069	4119	7690570157433338	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	bcde431b8332c092
+4069	4119	7690570157433338	C:/Users/icaro/OneDrive/Área de Trabalho/Projeto - Pokemon/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	bcde431b8332c092
+4119	4167	7690570157920503	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	77510ea408989b47
+4119	4167	7690570157920503	C:/Users/icaro/OneDrive/Área de Trabalho/Projeto - Pokemon/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	77510ea408989b47
+4168	4230	7690570158543116	CMakeFiles/raylib-populate-complete	22b9c730a81e1cb3
+4168	4230	7690570158543116	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	22b9c730a81e1cb3
+4168	4230	7690570158543116	C:/Users/icaro/OneDrive/Área de Trabalho/Projeto - Pokemon/cmake-build-debug/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete	22b9c730a81e1cb3
+4168	4230	7690570158543116	C:/Users/icaro/OneDrive/Área de Trabalho/Projeto - Pokemon/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	22b9c730a81e1cb3
